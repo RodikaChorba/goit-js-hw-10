@@ -2,6 +2,8 @@
 
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
+import imageUrl from '../img/alert-icon.svg';
+import resolveImageUrl from '../img/resolve-icon.svg';
 
 const inputForm = document.querySelector('.form');
 

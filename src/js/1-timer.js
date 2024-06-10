@@ -5,6 +5,7 @@ import 'flatpickr/dist/flatpickr.min.css';
 
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
+import imageUrl from '../img/alert-icon.svg';
 
 const timeInput = document.querySelector('#datetime-picker');
 const startBtn = document.querySelector('button[data-start]');
